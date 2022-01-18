@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="7">
+        <file>
+            <url>src/cardgame/pkg0/pkg7/Entity.java</url>
+            <bookmark id="7">
+                <name/>
+                <line>192</line>
+                <key/>
+            </bookmark>
+        </file>
+        <file>
+            <url>src/cardgame/pkg0/pkg7/Inventory.java</url>
+            <bookmark id="4">
+                <name/>
+                <line>58</line>
+                <key/>
+            </bookmark>
+            <bookmark id="5">
+                <name/>
+                <line>79</line>
+                <key/>
+            </bookmark>
+            <bookmark id="2">
+                <name/>
+                <line>238</line>
+                <key/>
+            </bookmark>
+            <bookmark id="1">
+                <name/>
+                <line>242</line>
+                <key/>
+            </bookmark>
+        </file>
+        <file>
+            <url>src/cardgame/pkg0/pkg7/CardDeck.java</url>
+            <bookmark id="6">
+                <name/>
+                <line>55</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/USER/Dropbox/Programing/CardGame/Code/Projects/CardGame-0.7/src/cardgame/pkg0/pkg7/Armour.java</file>
+            <file>file:/C:/Users/USER/Dropbox/Programing/CardGame/Code/Projects/CardGame-0.7/src/cardgame/pkg0/pkg7/StatsBar.java</file>
+            <file>file:/C:/Users/USER/Dropbox/Programing/CardGame/Code/Projects/CardGame-0.7/src/cardgame/pkg0/pkg7/GameBoard.java</file>
+            <file>file:/C:/Users/USER/Dropbox/Programing/CardGame/Code/Projects/CardGame-0.7/src/cardgame/pkg0/pkg7/CardGame07.java</file>
+            <file>file:/C:/Users/USER/Dropbox/Programing/CardGame/Code/Projects/CardGame-0.7/src/cardgame/pkg0/pkg7/Turn.java</file>
+            <file>file:/C:/Users/USER/Dropbox/Programing/CardGame/Code/Projects/CardGame-0.7/src/cardgame/pkg0/pkg7/TestingFrame.java</file>
+            <file>file:/C:/Users/USER/Dropbox/Programing/CardGame/Code/Projects/CardGame-0.7/src/cardgame/pkg0/pkg7/Weapon.java</file>
+        </group>
+    </open-files>
+</project-private>

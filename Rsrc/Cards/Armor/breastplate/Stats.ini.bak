@@ -1,0 +1,10 @@
+Desc:A big, iron plated breastplate.
+[stats]
+ACC:-4
+DEF:3
+VAL:61
+[tags]
+@Hammer
+@small
+[crafting]
+craftedIn:@null
